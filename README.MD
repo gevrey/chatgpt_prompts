@@ -10,8 +10,8 @@ Thanks to https://github.com/f/awesome-chatgpt-prompts
 
 type **'/'** show prompts menu and then type keyword to search.
 
-<img width="400" alt="Screenshot" src="https://github.com/doggeddog/chatgpt_prompts/raw/master/assets/screenshot2.gif">
+<img width="400" alt="Screenshot" src="https://github.com/gevrey/chatgpt_prompts/raw/master/assets/screenshot2.gif">
 
 ## Installation
 
-https://github.com/doggeddog/chatgpt_prompts/raw/master/prompts.user.js
+https://github.com/gevrey/chatgpt_prompts/raw/master/prompts.user.js
